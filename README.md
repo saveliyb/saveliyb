@@ -6,9 +6,10 @@
 <br/>
 
 ### About me
-- I am a 1st year student
-- I have little experience in commercial development
-- English A2
+- 🏫 I'm a 1st year student
+- 💻 I have little experience in commercial development
+- 🌏 English A2
+- 📫 Reach me be [email](mailto:bazhenovsp2005@mail.ru), [telegram](https://t.me/bsaveliy)
 
 <br/>
 
@@ -20,7 +21,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100" height="100"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="100" height="100"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="100" height="125"/>
-
+<br/>
+<br/>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saveliyb)](https://github.com/saveliyb/github-readme-stats)
 
           
