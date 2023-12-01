@@ -21,9 +21,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="100" height="100"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="100" height="125"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saveliyb)](https://github.com/saveliyb/github-readme-stats)
 
-          
-          
           
 <!--
 **saveliyb/saveliyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
