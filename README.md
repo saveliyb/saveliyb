@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center>
+    <h1>Hi there, I'm Saveliy</h1>
+    <h3>Beginner python developer from St Petersburg</h3>
+</div>
 
 <!--
 **saveliyb/saveliyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
