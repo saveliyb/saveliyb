@@ -1,7 +1,7 @@
-<div id="header" align="center>
-    <h1>Hi there, I'm Saveliy</h1>
-    <h3>Beginner python developer from St Petersburg</h3>
-</div>
+<h1 align="center">Hi there, I'm Saveliy
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Beginner python developer from Russia St Petersburg</h3>
+<h3>SPBSTU Software engineering student</h3>
 
 <!--
 **saveliyb/saveliyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
