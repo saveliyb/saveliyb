@@ -3,6 +3,22 @@
 <h4 align="center">Beginner python developer from Russia St Petersburg</h4>
 <h4 align="center">SPBSTU Software engineering student</h4>
 
+<br/>
+
+### About me
+- I am a 1st year student
+- I have little experience in commercial development
+- English A2
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" width="200" height="125"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100" height="100"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="100" height="100"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="100" height="125"/>&nbsp;
+
+          
+          
+          
 <!--
 **saveliyb/saveliyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
